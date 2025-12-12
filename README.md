@@ -1,4 +1,4 @@
-## Hi there 👋, Welcome to my Profile. I am a web developer with experience in Ruby on rails, React and Python. I would love to be invited to contribute to Django and Ruby on rails projects. 
+## Hi there 👋, Welcome to my Profile. I am a Fullstack Web with experience in Ruby on rails, React and Python. I would love to be invited to contribute to Django and Ruby on rails projects. 
 
 ## Frameworks and languages
 <p align="left">
@@ -13,5 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
