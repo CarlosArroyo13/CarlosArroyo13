@@ -1,5 +1,12 @@
 ## Hi there 👋, Welcome to my Profile. I am a web developer with experience in Ruby on rails, React and Python. I would love to be invited to contribute to Django and Ruby on rails projects. 
 
+## Tools and languajes
+![Ruby](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg) 
+![Rails](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
 <!--
 **CarlosArroyo13/CarlosArroyo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
