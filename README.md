@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my Profile. I am a web developer with experience in Ruby on rails,
+## React and Python. I would love to be invited to contribute to Django projects. 
 
 <!--
 **CarlosArroyo13/CarlosArroyo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
